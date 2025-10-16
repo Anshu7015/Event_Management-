@@ -1,0 +1,25 @@
+{
+  "name": "event_management-",
+  "version": "1.0.0",
+  "description": "An Event Management Backend project using Node.js,Express.js,PostgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshu7015/Event_Management-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshu7015/Event_Management-/issues"
+  },
+  "homepage": "https://github.com/Anshu7015/Event_Management-#readme",
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
